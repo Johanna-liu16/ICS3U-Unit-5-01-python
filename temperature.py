@@ -11,7 +11,7 @@ def fahrenheit():
 
     # input
     print("This program converts celsius to fahrenheit.")
-    str_cel = input("Enter degrees for celsius: ")
+    str_cel = input("Enter degrees in celsius: ")
 
     # process
     try:
